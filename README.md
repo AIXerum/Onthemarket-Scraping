@@ -114,9 +114,6 @@ const pagePropertyScraper = async (idLists: string[]) => {
 - *Agent Address:* 374 Oldfield Lane North Greenford, Middlesex UB6 8PU
 - *Agent Phone number:* +44 020 3641 4791
 
-**Live Demo for Single Page Scraper is [here](https://www.loom.com/share/e6ec9b5695e240ddafec11db9595b8ad?sid=c0a8faa0-6523-432d-9021-4db9710ec32e)** 
-
-
 ### Result
 
 | ID | Link to Property | Price | Size | Address | Key Features |  
@@ -132,39 +129,3 @@ const pagePropertyScraper = async (idLists: string[]) => {
 | PURPOSE BUILT STUDIO FLAT - LONG LEASE - PARKING. Brian Cox are pleased to present this well presented one bedroom flat situated on the third floor. The property comprises of a lounge, kitchen, bedroom, and bathroom. The property benefits from double glazing, gas central heating, long lease, residents parking and communal grounds. The property is situated close to shopping facilities, sought after schools and transportation links.                                                                                                                                               | Brian Cox Estate Agents - North Greenford | 374 Oldfield Lane North Greenford, Middlesex UB6 8PU | 020 3641 4791      |  
 | Haart Croydon are pleased to market this chain free large studio apartment within a popular development a short distance of transport links and amenities. Situated on the ground floor of a purpose-built block, is this large studio available to view now. The studio benefits from a semi-open plan fitted kitchen with built in electric hob and oven. ... | Haart Estate Agents - Croydon | 121 South End Croydon CR0 1BJ  | 020 8022 6763      |
 | ... | ... | ... | ... |
-
-**Live Demo for Onthemarket Scraper is [here](https://www.loom.com/share/268eb7ed85c04d028b40cb7f1a6c58c3?sid=c50abbd4-abc2-4e3f-968f-e994045a713a), or you can check the total search result for London in [GitHub latest release](https://github.com/BeautifulMoon211/Onthemarket-Scraping/releases/tag/v1.1).** 
-
-
-## Project Info
-### Author 
-Sweem
-
-### Developers
- - [Sweem](https://github.com/beautifulmoon211)
- - [Johnson Takashi](https://github.com/HighAmbition211)
-
-### Version
-1.1.0
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/BeautifulMoon211/Onthemarket-Scraping/blob/main/LICENSE) file for details.
-
-<h3>
-    If you found this project useful or interesting, please consider giving it a 
-    <a href="https://github.com/BeautifulMoon211/Onthemarket-Scraping">
-        <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/refs/heads/auxiliary/others/star.gif" style="width:25px"> 
-        Star
-    </a>, or 
-    <a href="https://github.com/BeautifulMoon211/">
-        Following
-    </a> 
-    me.
-    If you'd like to use this template, feel free to 
-    <a href="https://github.com/BeautifulMoon211/Onthemarket/fork">
-        Fork
-    </a> 
-    it and customize it to your needs!
-</h3>
-
-###  Thank you for the help with [Johnson Takashi](https://github.com/HighAmbition211).
